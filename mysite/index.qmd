@@ -1,5 +1,5 @@
 ---
-title: "mysite"
+title: "jumper"
 ---
 
 This is a Quarto website.
