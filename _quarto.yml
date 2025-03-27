@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir:docs
+  output-dir: docs # Corrected: Indented to the same level as 'type'
 
 website:
   title: "jumper"
@@ -17,6 +17,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
